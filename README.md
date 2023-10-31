@@ -118,6 +118,18 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ----------------------------------------------------------------------
+</br>
+ </br>
+ 
+
+
+
+<div align="center">
+ <b style = {font-weight: 600}>Visitors Count</b>
+
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{NejmeddineAbdellah}/count.svg" /></p> 
+<br>
+</div>
+
 Credit: [reda108](https://github.com/reda108)
 
-Last Edited on: 29/4/2023
