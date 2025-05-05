@@ -26,9 +26,8 @@
 
 
 <!--Intro start-->
-- 🔧 I’m currently looking for a new job opportunity.
   
-- 🔭 I’m currently working on **Spring Boot, React, React Native, Nodejs, Angular**
+- 🔭 I’m currently working on **Spring Boot, React, Angular, Flutter**
 
 - ☁️ I've keen interest in **IOt developpement & Devops**
 
